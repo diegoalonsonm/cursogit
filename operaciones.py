@@ -10,4 +10,4 @@ print(n1*5)
 if n2-n1 > 2 or n1*5 < 15:
     print("tengo hambre, vamos a almorzar")
 
-print('tengo frio')
+print('tengo frío')
